@@ -1,0 +1,15 @@
+[{
+  "modid": "LetsModReboot",
+  "name": "Let's Mod Reboot",
+  "description": "Learning to mod Minecraft using Pahimar's guide",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/neanias/LetsMod",
+  "updateUrl": "",
+  "authorList": ["neanias"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "parent": "",
+  "dependencies": []
+}]
