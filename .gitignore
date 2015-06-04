@@ -1,24 +1,25 @@
-# Gradle
-build
-.gradle
+## gradle
+/.gradle
+/build
+/gradle
+/gradlew
+/gradlew.bat
 
-.DS_Store
+## ForgeGradle
+/run
 
-# Minecraft
-run
+## eclipse
+/eclipse
+/.settings
+/.metadata
+/.classpath
+/.project
+/bin
 
-# IntelliJ
-out
-.idea/
-*.iml
-*.ipr
-*.iws
-
-# Keystore
-keystore/*
-
-# Decomp
-decomp/*
-
-libs/*.jar
-*~
+## intellij
+/out
+/.idea
+/*.iml
+/*.ipr
+/*.iws
+/atlassian-ide-plugin.xml
